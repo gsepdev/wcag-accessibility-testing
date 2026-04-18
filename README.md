@@ -31,7 +31,8 @@ To identify accessibility issues and validate whether a web application complies
 
 
     python wcag_check.py
-Example output:
+
+      Example output:
 
      - image-alt -> WCAG 1.1.1 -> Level A
      - color-contrast -> WCAG 1.4.3 -> Level AA
