@@ -101,8 +101,10 @@ To identify accessibility issues and validate whether a web application complies
 ---
 ## Screenshots:
 ---
-       - Lighthouse:
-         ![lighthouse](screenshots/Lightouse-Diagnostics.png)
+   Lighthouse:
+   ---
+   
+   ![lighthouse](screenshots/Lightouse-Diagnostics.png)
 
 
 # Playwright Report:
