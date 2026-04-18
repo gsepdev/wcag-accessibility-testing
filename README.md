@@ -81,7 +81,9 @@ To identify accessibility issues and validate whether a web application complies
 ## 📎 Demo Website
     https://projects.accesscomputing.uw.edu/au/before.html
 
-    ---
+
+---
+
 ##  Author
 
 ![Report](Images/theqavenue.png)
