@@ -31,6 +31,7 @@ To identify accessibility issues and validate whether a web application complies
 
 
     python wcag_check.py
+---
 
       Example output:
 
