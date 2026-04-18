@@ -102,7 +102,7 @@ To identify accessibility issues and validate whether a web application complies
 
 ##  Author
 
-![Report](Images/theqavenue.png)
+![logo](screenshots/theqavenue.png)
 
 The QAvenue  
 Building QA knowledge, one bug at a time.
