@@ -99,7 +99,8 @@ To identify accessibility issues and validate whether a web application complies
 
 
 ---
-# Lighthouse:
+## Screenshots:
+ -Lighthouse:
 ![lighthouse](screenshots/Lightouse-Diagnostics.png)
 
 
