@@ -26,7 +26,7 @@ To identify accessibility issues and validate whether a web application complies
 1. Run Lighthouse Audit
    
     lighthouse "https://projects.accesscomputing.uw.edu/au/before.html#" --only-categories=accessibility --output json --output-path=report.json
-   
+   ---
 3. Classify WCAG Issues (Python)
     python wcag_check.py
 Example output:
@@ -34,7 +34,7 @@ Example output:
      - image-alt -> WCAG 1.1.1 -> Level A
      - color-contrast -> WCAG 1.4.3 -> Level AA
      - label -> WCAG 3.3.2 -> Level A
-   
+  --- 
 5. Run Playwright Tests:
    
         npx playwright test
