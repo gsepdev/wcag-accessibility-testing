@@ -1,6 +1,8 @@
 # wcag-accessibility-testing
-Accessibility testing project using Lighthouse and Playwright to detect issues and validate WCAG 2.1 compliance
 ---
+   Accessibility testing project using Lighthouse and Playwright to detect issues and validate WCAG 2.1 compliance
+---
+
 # Overview
 This project demonstrates how to perform accessibility testing using a combination of automated tools and functional validation.
 Lighthouse is used to detect accessibility issues, while Playwright validates real user interactions such as keyboard navigation, focus visibility, and form usability.
@@ -51,6 +53,7 @@ All tests passed:
     4. Identify failing elements
     5. Validate behavior using Playwright
     6. Produce final accessibility result
+    
  # 💥 What This Project Demonstrates
     Understanding of WCAG 2.1 (A & AA)
     Ability to map issues to official success criteria
@@ -58,6 +61,7 @@ All tests passed:
     Functional validation using Playwright
     QA mindset: detection + validation
     End-to-end accessibility testing approach
+    
 # 📎 Demo Website
     https://projects.accesscomputing.uw.edu/au/before.html
     
