@@ -37,7 +37,7 @@ Example output:
    
 5. Run Playwright Tests:
    
-      npx playwright test
+        npx playwright test
    
 ---
 
