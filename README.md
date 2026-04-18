@@ -32,6 +32,8 @@ To identify accessibility issues and validate whether a web application complies
     Keyboard navigation (WCAG 2.1.1)
     Focus visibility (WCAG 2.4.7)
     Form inputs usability (WCAG 3.3.2)
+---
+
 # Results
 ✔ Functional Validation (Playwright)
 All tests passed:
@@ -42,13 +44,15 @@ All tests passed:
     Missing alt text → WCAG 1.1.1 (Level A)
     Missing labels → WCAG 3.3.2 (Level A)
     Low contrast → WCAG 1.4.3 (Level AA)
+---
+
 # Final Status
  ❌ Not WCAG A compliant
  ❌ Not WCAG AA compliant
-
+ 
+---
  # Key Insight
- ---
-    A fully functional application does not guarantee accessibility compliance.
+     A fully functional application does not guarantee accessibility compliance.
  ---
 
  # 🏗️ Architecture
@@ -60,7 +64,8 @@ All tests passed:
     4. Identify failing elements
     5. Validate behavior using Playwright
     6. Produce final accessibility result
-    
+  ---
+  
  # 💥 What This Project Demonstrates
     Understanding of WCAG 2.1 (A & AA)
     Ability to map issues to official success criteria
@@ -68,7 +73,8 @@ All tests passed:
     Functional validation using Playwright
     QA mindset: detection + validation
     End-to-end accessibility testing approach
-    
+   ---
+   
 # 📎 Demo Website
     https://projects.accesscomputing.uw.edu/au/before.html
     
