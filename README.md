@@ -74,6 +74,7 @@ To identify accessibility issues and validate whether a web application complies
  
 
  ## 🏗️ Architecture
+ ![architecture](screenshots/architectureproject9.png)
  
  ## 🔄 Flow
     1. Run Lighthouse audit
