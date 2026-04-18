@@ -71,7 +71,7 @@ To identify accessibility issues and validate whether a web application complies
 ---
  ## Key Insight
      A fully functional application does not guarantee accessibility compliance.
- ---
+ 
 
  ## 🏗️ Architecture
  
