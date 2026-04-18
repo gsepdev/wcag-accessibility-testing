@@ -1,6 +1,7 @@
 # wcag-accessibility-testing
 ---
    Accessibility testing project using Lighthouse and Playwright to detect issues and validate WCAG 2.1 compliance
+
 ---
 
 # Overview
@@ -44,6 +45,7 @@ All tests passed:
     Missing alt text → WCAG 1.1.1 (Level A)
     Missing labels → WCAG 3.3.2 (Level A)
     Low contrast → WCAG 1.4.3 (Level AA)
+
 ---
 
 # Final Status
