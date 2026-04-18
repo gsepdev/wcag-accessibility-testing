@@ -28,7 +28,8 @@ To identify accessibility issues and validate whether a web application complies
        lighthouse "https://projects.accesscomputing.uw.edu/au/before.html#" --only-categories=accessibility --output json --output-path=report.json
    ---
 3. Classify WCAG Issues (Python)
-   ---
+
+
     python wcag_check.py
 Example output:
 
