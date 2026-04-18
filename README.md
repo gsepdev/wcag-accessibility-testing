@@ -41,8 +41,9 @@ All tests passed:
  ❌ Not WCAG AA compliant
 
  # Key Insight
- A fully functional application does not guarantee accessibility compliance.
----
+ ---
+    A fully functional application does not guarantee accessibility compliance.
+ ---
 
  # 🏗️ Architecture
  
