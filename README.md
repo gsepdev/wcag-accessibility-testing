@@ -17,10 +17,10 @@ To identify accessibility issues and validate whether a web application complies
 ---
 
 ## Tech Stack
-    Playwright (TypeScript)
-    Lighthouse CLI
-    Python (WCAG classification)
-    Node.js
+- Playwright (TypeScript)
+- Lighthouse CLI
+- Python (WCAG classification)
+- Node.js
 ---
 
 ## How It Works
@@ -30,9 +30,9 @@ To identify accessibility issues and validate whether a web application complies
 ---
 
 ## Playwright Checks
-    Keyboard navigation (WCAG 2.1.1)
-    Focus visibility (WCAG 2.4.7)
-    Form inputs usability (WCAG 3.3.2)
+- Keyboard navigation (WCAG 2.1.1)
+- Focus visibility (WCAG 2.4.7)
+- Form inputs usability (WCAG 3.3.2)
 ---
 
 ## Results
@@ -49,8 +49,8 @@ All tests passed:
 ---
 
 ## Final Status
- ❌ Not WCAG A compliant
- ❌ Not WCAG AA compliant
+ - ❌ Not WCAG A compliant
+ - ❌ Not WCAG AA compliant
  
 ---
  ## Key Insight
@@ -69,12 +69,12 @@ All tests passed:
   ---
   
  ## 💥 What This Project Demonstrates
-    Understanding of WCAG 2.1 (A & AA)
-    Ability to map issues to official success criteria
-    Automated accessibility detection (Lighthouse)
-    Functional validation using Playwright
-    QA mindset: detection + validation
-    End-to-end accessibility testing approach
+   - Understanding of WCAG 2.1 (A & AA)
+   - Ability to map issues to official success criteria
+   - Automated accessibility detection (Lighthouse)
+   - Functional validation using Playwright
+   - QA mindset: detection + validation
+   - End-to-end accessibility testing approach
    ---
    
 ## 📎 Demo Website
