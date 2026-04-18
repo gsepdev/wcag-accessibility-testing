@@ -13,15 +13,20 @@ The results are mapped to official WCAG 2.1 success criteria and conformance lev
 
 To identify accessibility issues and validate whether a web application complies with WCAG standards.
 
+---
+
 # Tech Stack
     Playwright (TypeScript)
     Lighthouse CLI
     Python (WCAG classification)
     Node.js
+---
+
 # How It Works
 1. Run Lighthouse Audit
 2. Classify WCAG Issues (Python)
 3. Run Playwright Tests
+---
 
 # Playwright Checks
     Keyboard navigation (WCAG 2.1.1)
