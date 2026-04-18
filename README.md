@@ -100,6 +100,8 @@ To identify accessibility issues and validate whether a web application complies
 
 ---
 
+![lighthouse](screenshots/Lightouse-Diagnostics.png)
+![lighthouse](screenshots/playwright-report.png)
 ##  Author
 
 ![logo](screenshots/theqavenue.png)
