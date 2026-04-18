@@ -8,6 +8,7 @@ This project demonstrates how to perform accessibility testing using a combinati
 Lighthouse is used to detect accessibility issues, while Playwright validates real user interactions such as keyboard navigation, focus visibility, and form usability.
 The results are mapped to official WCAG 2.1 success criteria and conformance levels (A and AA).
 
+---
 # Objective
 
 To identify accessibility issues and validate whether a web application complies with WCAG standards.
