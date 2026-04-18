@@ -41,6 +41,7 @@ To identify accessibility issues and validate whether a web application complies
    - Keyboard navigation works
    - Focus is visible
    - Form inputs are interactable
+
 ❌ Accessibility Issues (Lighthouse)
    - Missing alt text → WCAG 1.1.1 (Level A)
    - Missing labels → WCAG 3.3.2 (Level A)
