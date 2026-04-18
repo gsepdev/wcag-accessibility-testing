@@ -40,4 +40,24 @@ All tests passed:
 
  # Key Insight
  A fully functional application does not guarantee accessibility compliance.
+---
 
+ # 🏗️ Architecture
+ 
+ # 🔄 Flow
+    1. Run Lighthouse audit
+    2. Generate report.json
+    3. Map issues to WCAG criteria
+    4. Identify failing elements
+    5. Validate behavior using Playwright
+    6. Produce final accessibility result
+ # 💥 What This Project Demonstrates
+    Understanding of WCAG 2.1 (A & AA)
+    Ability to map issues to official success criteria
+    Automated accessibility detection (Lighthouse)
+    Functional validation using Playwright
+    QA mindset: detection + validation
+    End-to-end accessibility testing approach
+# 📎 Demo Website
+    https://projects.accesscomputing.uw.edu/au/before.html
+    
